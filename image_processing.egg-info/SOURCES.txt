@@ -1,0 +1,11 @@
+setup.py
+Crawler/__init__.py
+Crawler/base_crawler.py
+Crawler/figshare_crawler.py
+Crawler/url_downloader.py
+Crawler/zenodo_crawler.py
+image_processing.egg-info/PKG-INFO
+image_processing.egg-info/SOURCES.txt
+image_processing.egg-info/dependency_links.txt
+image_processing.egg-info/requires.txt
+image_processing.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+tqdm
+pandas
+PyQt5
+numpy
+scipy
+matplotlib
+mrcfile
+tifffile
